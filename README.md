@@ -1,1 +1,9 @@
-# spotify-analysis-20
+#### Spotify Music and Lyrics Analysis
+
+Introduction:
+
+Music has always been an integral part of human culture and has played a significant role in reflecting the social and cultural milieu of a particular period. The year 2020 was a year of significant global events, including the COVID-19 pandemic, social and political unrest, and climate change concerns. These events have had a significant impact on people's lives, and their influence has been reflected in the world of music as well. Pop songs have always been a popular genre, and in 2020, they remained a favorite among listeners worldwide. Spotify, the world's largest music streaming platform, has become a treasure trove of data that can help us understand the zeitgeist of 2020. In this Jupyter Notebook analysis, we will explore how Spotify data and chart data can help us gain insights into the cultural and social trends of 2020 by using exploratory data analysis (EDA) techniques.
+
+Background:
+
+Spotify, a Swedish music streaming platform, has over 320 million active users worldwide and has an extensive collection of over 70 million songs. Spotify's vast collection of data provides a unique opportunity to analyze and understand the trends and preferences of listeners worldwide. The platform's user data contains information about song genres, popularity, play counts, and more. Additionally, Spotify's API allows developers and data analysts to extract data and perform in-depth analyses. The Billboard charts are another excellent source of information about music trends and preferences. The Billboard Hot 100 is the music industry's standard for ranking songs based on their popularity in the United States. These charts are widely used by music lovers, industry professionals, and researchers to understand music trends and changes in listener preferences. By combining the data from both sources, we can gain a comprehensive understanding of the music zeitgeist of 2020. In this analysis, we will use EDA techniques to extract meaningful insights from Spotify and chart data, and explore how the events of 2020 influenced pop music trends.
